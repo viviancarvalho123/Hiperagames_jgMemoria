@@ -3,16 +3,14 @@ const spanPlayer = document.querySelector('.player');
 const timer = document.querySelector('.timer');
 
 const characters = [
-  'beth',
-  'jerry',
-  'jessica',
-  'morty',
-  'pessoa-passaro',
-  'pickle-rick',
-  'rick',
-  'summer',
-  'meeseeks',
-  'scroopy',
+  
+  'canguru',
+  'coalinha',
+  'cobra',
+  'coruja',
+  'girafa',
+  'leaozinho',
+  
 ];
 
 const createElement = (tag, className) => {
